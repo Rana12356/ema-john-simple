@@ -21,3 +21,16 @@
     line-height: normal;
     letter-spacing: 0.032px;
 }
+
+.btn-clear-cart {
+    width: 90%;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    border-radius: 4px;
+    background: #FF3030;
+    font-size: 21px;
+    margin: 10px auto;
+}
